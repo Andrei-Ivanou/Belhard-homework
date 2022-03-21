@@ -1,3 +1,3 @@
 # Belhard
 HI. I make changes to readme file.
-# Welcome Gi
+# Welcome Git
